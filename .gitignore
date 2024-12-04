@@ -1,0 +1,15 @@
+# ide 
+.vscode
+
+# sql
+schema.sql
+
+# experiment 
+experiment
+tmp
+
+# bin
+\projectbackend
+
+# log
+projectlog
